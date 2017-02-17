@@ -1,0 +1,22 @@
+{
+    "products": {
+        "com.ubuntu.cloud:server:16.04:amd64": {
+            "version": "16.04",
+            "arch": "amd64",
+            "versions": {
+                "20170217": {
+                    "items": {
+                        "foo": {
+                            "id": "foo",
+                            "region": "localhost",
+                            "endpoint": "http://example.com/"
+                        }
+                    }
+                }
+            }
+        }
+    },
+    "updated": "Fri, 17 Feb 2017 13:53:07 +0000",
+    "format": "products:1.0",
+    "content_id": "com.ubuntu.cloud:custom"
+}

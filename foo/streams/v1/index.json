@@ -1,0 +1,12 @@
+{
+    "index": {
+  "com.ubuntu.cloud:released:download": {
+   "datatype": "image-downloads", 
+   "path": "streams/v1/com.ubuntu.cloud:released:download.json", 
+   "updated": "Fri, 17 Feb 2017 13:30:38 +0000", 
+   "products": [
+    "com.ubuntu.cloud:server:16.04:amd64"
+   ], 
+   "format": "products:1.0"
+  }
+}
